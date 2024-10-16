@@ -63,7 +63,7 @@ Here are some projects I've worked on:
 ## 🌟 Interests and Fun Facts
 
 - 📚 I'm deeply interested in causal inference and its applications in data science. Judea Pearl's "The Book of Why" has been a significant influence on my thinking in this area.
-- 🧠 I love exploring the intersection of machine learning, causal inference, and materials science.
+- 🧠 I love exploring the intersection of machine learning, causal inference, and materials science. 
 - 📖 My reading interests span history, philosophy, technology, and scientific advancements.
 - 🧗 In my free time, you can find me hiking or cycling.
 - 🌍 I've lived and studied in India, Germany, and the Netherlands.
