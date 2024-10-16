@@ -71,8 +71,8 @@ Here are some projects I've worked on:
 
 Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on a project, discuss the exciting world of polymer science and machine learning, or explore the depths of causal inference!
 
-<summary>
 <details>
+<summary>
 📚 Selected Publications & Acknowledgement of contributions
 
 1. Sujan Hazra, Prakash Abhale, Sam Mathew and Shankar Narasimhan, "Application of data reconciliation and gross error detection techniques to enhance reliability and consistency of the blast furnace process data", Asia-Pacific Journal of Chemical Engineering, 2021. [link](https://onlinelibrary.wiley.com/doi/abs/10.1002/apj.2628)
@@ -93,5 +93,5 @@ Feel free to explore my repositories and don't hesitate to reach out if you'd li
 8. Sam Mathew, Ganesh Visavale and Vijay Mali, "Making order in the cabinet : Integrating CFD in the green energy design process for food industry helps identify and fix causes for uneven drying in a Solar Cabinet Dryer", Ansys Users Conference, Bangalore, 2010. [link](https://www.cctech.co.in/media/papers/white-papers/2010/cfd-analysis-of-solar-cabinet-dryer)
 
 9. Raja Gopal Rayavarapu, Wilma Petersen, Constantin Ungureanu, Janine N. Post, Ton G. van Leeuwen, and Srirang Manohar, "[Synthesis and Bioconjugation of Gold Nanoparticles as Potential Molecular Probes for Light-Based Imaging Techniques]", Int. J. of Biomedical Imaging, 2007, 2007:29817. [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2266791/#ack-a.p.atitle)
-</summary>
 </details>
+</summary>
