@@ -74,22 +74,22 @@ Feel free to explore my repositories and don't hesitate to reach out if you'd li
 <details>
 <summary>📚 Selected Publications & Acknowledgement of contributions</summary>
 
-1. Sujan Hazra, Prakash Abhale, Sam Mathew and Shankar Narasimhan, "[Application of data reconciliation and gross error detection techniques to enhance reliability and consistency of the blast furnace process data](https://onlinelibrary.wiley.com/doi/abs/10.1002/apj.2628)", Asia-Pacific Journal of Chemical Engineering, 2021
+1. Sujan Hazra, Prakash Abhale, Sam Mathew and Shankar Narasimhan, "Application of data reconciliation and gross error detection techniques to enhance reliability and consistency of the blast furnace process data", Asia-Pacific Journal of Chemical Engineering, 2021. [link](https://onlinelibrary.wiley.com/doi/abs/10.1002/apj.2628)
 
-2. Pallab Sinha Mahapatra and Sam Mathew, "[Activity-induced mixing and phase transitions of self-propelled swimmers](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.012609)", Phys. Rev. E, 2019, Vol. 99, 012609
+2. Pallab Sinha Mahapatra and Sam Mathew, "Activity-induced mixing and phase transitions of self-propelled swimmers", Phys. Rev. E, 2019, Vol. 99, 012609. [link](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.012609)
 
-3. Pallab Sinha Mahapatra, Ajinkya Kulkarni, Sam Mathew, Mahesh V. Panchagnula and Srikanth Vedantam, "[Transitions between multiple dynamical states in a confined dense active-particle system](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.062610)", Phys. Rev. E, 2017, Vol. 95, 062610
+3. Pallab Sinha Mahapatra, Ajinkya Kulkarni, Sam Mathew, Mahesh V. Panchagnula and Srikanth Vedantam, "Transitions between multiple dynamical states in a confined dense active-particle system", Phys. Rev. E, 2017, Vol. 95, 062610. [link(https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.062610)]
 
-4. Pallab Sinha Mahapatra, Sam Mathew, Mahesh V. Panchagnula, Srikanth Vedantam, "[Effect of size distribution on mixing of a polydisperse wet granular material in a belt-driven enclosure](https://link.springer.com/article/10.1007/s10035-016-0633-1)", Granular Matter, 2016, Vol. 18, 30
+4. Pallab Sinha Mahapatra, Sam Mathew, Mahesh V. Panchagnula, Srikanth Vedantam, "Effect of size distribution on mixing of a polydisperse wet granular material in a belt-driven enclosure", Granular Matter, 2016, Vol. 18, 30. [link](https://link.springer.com/article/10.1007/s10035-016-0633-1)
 
 
-5. Pramode K Das, Sam Mathew, A J Shaiju and B S V Patnaik, "[Energetically efficient proportional-integral-differential (PID) control of wake vortices behind a circular cylinder](https://iopscience.iop.org/article/10.1088/0169-5983/48/1/015510)", Fluid Dynamics Research, 2015, Vol. 48, 015510
+5. Pramode K Das, Sam Mathew, A J Shaiju and B S V Patnaik, "Energetically efficient proportional-integral-differential (PID) control of wake vortices behind a circular cylinder", Fluid Dynamics Research, 2015, Vol. 48, 015510. [link](https://iopscience.iop.org/article/10.1088/0169-5983/48/1/015510)
 
-6. Sam Mathew, B S V Patnaik and T John Tharakan, "[Numerical study of air-core vortex dynamics during liquid draining from cylindrical tanks](https://iopscience.iop.org/article/10.1088/0169-5983/46/2/025508)", Fluid Dynamics Research, 2014, Vol. 46, 025505
+6. Sam Mathew, B S V Patnaik and T John Tharakan, "Numerical study of air-core vortex dynamics during liquid draining from cylindrical tanks", Fluid Dynamics Research, 2014, Vol. 46, 025505. [link](https://iopscience.iop.org/article/10.1088/0169-5983/46/2/025508)
 
-7. Sam Mathew, Ganesh Visavale and Vijay Mali, "[CFD Analysis of a Heat Collector Element in a Solar Parabolic Trough Collector](https://www.researchgate.net/publication/264511218_CFD_Analysis_of_a_Heat_Collector_Element_in_a_Solar_Parabolic_Trough_Collector)", International Conference on Applications of Renewable and Sustainable Energy for Industry and Society, Hyderabad (REIS-2010), 2010
+7. Sam Mathew, Ganesh Visavale and Vijay Mali, "CFD Analysis of a Heat Collector Element in a Solar Parabolic Trough Collector", International Conference on Applications of Renewable and Sustainable Energy for Industry and Society, Hyderabad (REIS-2010), 2010. [link](https://www.researchgate.net/publication/264511218_CFD_Analysis_of_a_Heat_Collector_Element_in_a_Solar_Parabolic_Trough_Collector)
 
-8. Sam Mathew, Ganesh Visavale and Vijay Mali, "[Making order in the cabinet : Integrating CFD in the green energy design process for food industry helps identify and fix causes for uneven drying in a Solar Cabinet Dryer](https://www.cctech.co.in/media/papers/white-papers/2010/cfd-analysis-of-solar-cabinet-dryer)", Ansys Users Conference, Bangalore, 2010
+8. Sam Mathew, Ganesh Visavale and Vijay Mali, "Making order in the cabinet : Integrating CFD in the green energy design process for food industry helps identify and fix causes for uneven drying in a Solar Cabinet Dryer", Ansys Users Conference, Bangalore, 2010. [link](https://www.cctech.co.in/media/papers/white-papers/2010/cfd-analysis-of-solar-cabinet-dryer)
 
-9. Raja Gopal Rayavarapu, Wilma Petersen, Constantin Ungureanu, Janine N. Post, Ton G. van Leeuwen, and Srirang Manohar, "[Synthesis and Bioconjugation of Gold Nanoparticles as Potential Molecular Probes for Light-Based Imaging Techniques](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2266791/#ack-a.p.atitle)", Int. J. of Biomedical Imaging, 2007, 2007:29817
+9. Raja Gopal Rayavarapu, Wilma Petersen, Constantin Ungureanu, Janine N. Post, Ton G. van Leeuwen, and Srirang Manohar, "[Synthesis and Bioconjugation of Gold Nanoparticles as Potential Molecular Probes for Light-Based Imaging Techniques]", Int. J. of Biomedical Imaging, 2007, 2007:29817. [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2266791/#ack-a.p.atitle)
 </details>
