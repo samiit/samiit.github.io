@@ -15,7 +15,7 @@
 ## 🎯 Current Focus
 
 I'm currently working on exciting projects that combine my expertise in data science with my studies in Polymer Science:
-
+ 
 - 🧪 Applying machine learning techniques to index and search polymer material properties
 - 🔍 Developing recommendation engines for polymer materials based on required properties
 - 🔗 Integrating knowledge from thermodynamics, chemistry, and physics to create comprehensive models
