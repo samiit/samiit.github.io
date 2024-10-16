@@ -1,6 +1,6 @@
 # Sam Mathew
 
-👋 Hello! I'm Sam, a Full Stack Data Scientist but originally trained in Chemical Engineering, currently pursuing an M.Sc. in Polymer Science at Freie Universität and Humboldt Universität Berlin. I'm passionate about solving complex problems at the intersection of data science, explainable AI and materials science.
+👋 Hello! I'm Sam, a Full Stack Data Scientist with a background in Chemical Engineering, currently pursuing an M.Sc. in Polymer Science at Freie Universität and Humboldt Universität Berlin. I'm passionate about solving complex problems at the intersection of data science, explainable AI and materials science.
 
 ## 🚀 About Me
 
