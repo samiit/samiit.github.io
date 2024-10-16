@@ -72,7 +72,7 @@ Here are some projects I've worked on:
 Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on a project, discuss the exciting world of polymer science and machine learning, or explore the depths of causal inference!
 
 
-<summary>📚 Selected Publications & Acknowledgement of contributions</summary>
+📚 Selected Publications & Acknowledgement of contributions
 
 1. Sujan Hazra, Prakash Abhale, Sam Mathew and Shankar Narasimhan, "Application of data reconciliation and gross error detection techniques to enhance reliability and consistency of the blast furnace process data", Asia-Pacific Journal of Chemical Engineering, 2021. [link](https://onlinelibrary.wiley.com/doi/abs/10.1002/apj.2628)
 
