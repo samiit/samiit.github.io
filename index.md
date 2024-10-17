@@ -91,5 +91,5 @@ Feel free to explore my repositories and don't hesitate to reach out if you'd li
 
 8. Sam Mathew, Ganesh Visavale and Vijay Mali, "Making order in the cabinet : Integrating CFD in the green energy design process for food industry helps identify and fix causes for uneven drying in a Solar Cabinet Dryer", Ansys Users Conference, Bangalore, 2010. [link](https://www.cctech.co.in/media/papers/white-papers/2010/cfd-analysis-of-solar-cabinet-dryer)
 
-9. Raja Gopal Rayavarapu, Wilma Petersen, Constantin Ungureanu, Janine N. Post, Ton G. van Leeuwen, and Srirang Manohar, "[Synthesis and Bioconjugation of Gold Nanoparticles as Potential Molecular Probes for Light-Based Imaging Techniques]", Int. J. of Biomedical Imaging, 2007, 2007:29817. [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2266791/#ack-a.p.atitle)
+9. Raja Gopal Rayavarapu, Wilma Petersen, Constantin Ungureanu, Janine N. Post, Ton G. van Leeuwen, and Srirang Manohar, "Synthesis and Bioconjugation of Gold Nanoparticles as Potential Molecular Probes for Light-Based Imaging Techniques", Int. J. of Biomedical Imaging, 2007, 2007:29817. [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2266791/#ack-a.p.atitle)
 
