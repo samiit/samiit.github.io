@@ -50,7 +50,7 @@ Here are some projects I'm into:
    - AI-powered system to match patient profiles with suitable clinical studies
 
 4. Water Network Management Optimization
-   - Large-scale integer optimization for efficient water network scheduling
+   - Large-scale mixed integer optimization for efficient water network scheduling, design (non-linear programming) and sensor placement!
 
 5. Blast Furnace Data Reconciliation
    - Data reconciliation project for improving blast furnace efficiency
