@@ -41,7 +41,7 @@ This interdisciplinary research aims to bridge the gap between traditional polym
 Here are some projects I'm into:
 
 1. Polymer Property Predictor (possible Master thesis)
-   - Machine learning model to predict polymer properties based on chemical structure
+   - Machine learning model to predict polymer properties based on chemical structure and NOMADS database
 
 2. Medical Entity Extraction
    - NLP project for extracting medical entities from clinical texts
