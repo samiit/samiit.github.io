@@ -57,7 +57,7 @@ Here are some projects I'm into:
 
 ## 📫 How to reach me
 
-- 💼 LinkedIn: [linkedin.com/in/sammathewai](https://www.linkedin.com/in/sammathewai)
+- 💼 LinkedIn: [linkedin.com/in/sammathewai](https://www.linkedin.com/in/sammathewai/)
 - 🐙 GitHub: [github.com/samiit](https://github.com/samiit)
 
 ## 🌟 Interests and Fun Facts
