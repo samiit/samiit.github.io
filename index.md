@@ -78,7 +78,7 @@ Feel free to explore my repositories and don't hesitate to reach out if you'd li
 
 2. Pallab Sinha Mahapatra and Sam Mathew, "Activity-induced mixing and phase transitions of self-propelled swimmers", Phys. Rev. E, 2019, Vol. 99, 012609. [link](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.012609)
 
-3. Pallab Sinha Mahapatra, Ajinkya Kulkarni, Sam Mathew, Mahesh V. Panchagnula and Srikanth Vedantam, "Transitions between multiple dynamical states in a confined dense active-particle system", Phys. Rev. E, 2017, Vol. 95, 062610. [link(https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.062610)]
+3. Pallab Sinha Mahapatra, Ajinkya Kulkarni, Sam Mathew, Mahesh V. Panchagnula and Srikanth Vedantam, "Transitions between multiple dynamical states in a confined dense active-particle system", Phys. Rev. E, 2017, Vol. 95, 062610. [link](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.062610)
 
 4. Pallab Sinha Mahapatra, Sam Mathew, Mahesh V. Panchagnula, Srikanth Vedantam, "Effect of size distribution on mixing of a polydisperse wet granular material in a belt-driven enclosure", Granular Matter, 2016, Vol. 18, 30. [link](https://link.springer.com/article/10.1007/s10035-016-0633-1)
 
