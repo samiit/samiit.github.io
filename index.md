@@ -5,24 +5,21 @@
 ## 🚀 About Me
 
 - 🔬 Full Stack Data Scientist with experience in NLP, medical entity extraction, and patient-study profile matching
-- 🎓 Currently pursuing M.Sc. in Polymer Science at FU and HU Berlin
+- 🎓 Currently pursuing M.Sc. in Polymer Science at FU Berlin
 - 👨‍🏫 Regular corporate trainer in Generative AI, Causal Discovery and Inference, Linear Algebra, and Machine Learning
-- 💻 Proficient in Python, with expertise in Pandas, NumPy, Langchain, and FastAPI
-- 🧮 Strong background in mathematical modeling of physical systems and optimization
+- 💻 Proficient in Python, with experience in Pandas, NumPy, Langchain, and FastAPI
+- 🧮 Strong background in mathematical modeling of physical systems and mathematical optimization
 - 🤖 Experience with Large Language Models (RAG and Agent)
 - 🌍 Multilingual: Fluent in English, Hindi, Malayalam; Proficient in German, Tamil, and Telugu; still dabbling with French and Spanish!
 
 ## 🎯 Current Focus
 
-I'm currently working on exciting projects that combine my expertise in data science with my studies in Polymer Science:
- 
-- 🧪 Applying machine learning techniques to index and search polymer material properties
-- 🔍 Developing recommendation engines for polymer materials based on required properties
-- 🔗 Integrating knowledge from thermodynamics, chemistry, and physics to create comprehensive models
-- 📊 Utilizing data-driven approaches to accelerate materials discovery and optimization
-- 🔍 Exploring Causal Discovery and Inference techniques in materials science and beyond
+I'm currently working on my Master's thesis that combine my expertise in data science with my studies in Polymer Science:
 
-This interdisciplinary research aims to bridge the gap between traditional polymer science, causal inference, and cutting-edge machine learning techniques, potentially revolutionizing how we design and select materials for specific applications.
+- 🧪 Molecular Dyanmics study of PFAS interaction with candidate PEI variants for water purification
+- 🔍 Searching dominant molecular interactions for PFAS removal
+- 🔗 Integrating knowledge from computational chemistry & physics with data science to explore molecular interactions
+- 📊 Utilizing data-driven approaches to accelerate materials discovery and optimization
 
 ## 🛠️ Skills
 
@@ -33,28 +30,23 @@ This interdisciplinary research aims to bridge the gap between traditional polym
 - Azure DevOps and AWS
 - Data reconciliation and process optimization
 - Image processing and deep learning
-- Polymer science and characterization
-- Causal Discovery and Inference
 
 ## 🔗 Projects
 
-Here are some projects I'm into:
+Here are some projects I've worked on earlier in the industry:
 
-1. Polymer Property Predictor (possible Master thesis)
-   - Machine learning model to predict polymer properties based on chemical structure and NOMADS database
-
-2. Medical Entity Extraction
+1. Medical Entity Extraction
    - NLP project for extracting medical entities from clinical texts
 
-3. Patient-Study Profile Matching
+2. Patient-Study Profile Matching
    - AI-powered system to match patient profiles with suitable clinical studies
 
-4. Water Network Management Optimization
-   - Large-scale mixed integer optimization for efficient water network scheduling, design (non-linear programming) and sensor placement (cut-set method)!
+3. Water Network Management Optimization
+   - Large-scale integer optimization for efficient water network scheduling
 
-5. Blast Furnace Data Reconciliation
+4. Blast Furnace Data Reconciliation
    - Data reconciliation project for improving blast furnace efficiency
-
+  
 ## 📫 How to reach me
 
 - 💼 LinkedIn: [linkedin.com/in/sammathewai](https://www.linkedin.com/in/sammathewai/)
