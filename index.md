@@ -16,7 +16,7 @@
 
 I'm currently working on my Master's thesis that combine my expertise in data science with my studies in Polymer Science:
 
-- 🧪 Molecular Dyanmics study of PFAS interaction with candidate PEI variants for water purification - pitched a [solution](https://github.com/samiit/pfas-catch) that qualified for the finals at 2025 AI Hackathon
+- 🧪 Molecular Dyanmics study of PFAS interaction with candidate PEI variants for water purification - pitched a [solution](https://github.com/samiit/pfas-catch) that qualified for the finals at [{Tech: Europe } AI Hackathon Berlin 2025](https://techeurope.notion.site/berlin-hackathon-manual)
 - 🔍 Searching dominant molecular interactions for PFAS removal
 - 🔗 Integrating knowledge from computational chemistry & physics with data science to explore molecular interactions
 - 📊 Utilizing data-driven approaches to accelerate materials discovery and optimization
